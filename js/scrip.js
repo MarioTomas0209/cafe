@@ -1,7 +1,7 @@
 const btnSi = document.querySelector('.btn-si');
 
 btnSi.addEventListener('click', function(){
-    swal.fire('Gracias!!!', 'Por mi pelon rico, estaba rico jaja', 'success');
+    swal.fire('Gracias por mi pelon rico!!!', 'Estaba rico, Ahora me toca invitarte', 'success');
 });
 
 const btnNo = document.querySelector('.btn-no');
