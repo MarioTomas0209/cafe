@@ -18,9 +18,8 @@ body{
     padding: 1.5rem;
 }
 .contenido{
-    width: 100vw;
-    height: 100vh;
-    margin-top: 3rem;
+    max-width: 120rem;
+    margin: 4rem auto;
     text-align: center;
 }
 .contenido p{
